@@ -1,0 +1,6 @@
+Feature,Available_Diff,Available_CI_Low,Available_CI_High,Imputed_Diff,Imputed_CI_Low,Imputed_CI_High,Diff_Change,Sign_Changed,Available_Rank,Imputed_Rank,Rank_Changed
+Feature_371,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,2.0,2.0,False
+Feature_532,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,2.0,2.0,False
+Feature_516,-0.4736609248554913,-1.4694791295761078,0.050006115606936456,-0.17177147983595345,-0.5302945751781114,0.010890256026867854,0.30188944501953785,False,1.0,1.0,False
+Feature_194,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,2.0,2.0,False
+Feature_372,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,2.0,2.0,False
